@@ -1,6 +1,6 @@
 # Lista Referências sobre a Contaminação Química na Área Continental de São Vicente - SP
 
-**Site do proojeto:** https://catalogosaovicente.notion.site/Lista-de-Refer-ncias-sobre-Contamina-o-Qu-mica-na-rea-continental-de-S-o-Vicente-2bfa94208624803fba52fc575705385a 
+**Site do projeto:** https://catalogosaovicente.notion.site/Lista-de-Refer-ncias-sobre-Contamina-o-Qu-mica-na-rea-continental-de-S-o-Vicente-2bfa94208624803fba52fc575705385a 
 
 ---
 
