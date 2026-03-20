@@ -43,3 +43,6 @@ Envie um e-mail para **[saovicentecatalogo@gmail.com](mailto:saovicentecatalogo@
 
 # Sugestões e Correções
 Caso identifique informações incorretas ou tenha sugestões para aprimorar o projeto, envie um e-mail para [**saovicentecatalogo@gmail.com**](mailto:saovicentecatalogo@gmail.com).
+
+
+    This work is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
